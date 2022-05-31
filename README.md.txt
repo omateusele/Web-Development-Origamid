@@ -1,1 +1,0 @@
-Display exercise (display: inline-block;)
